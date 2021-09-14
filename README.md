@@ -32,11 +32,11 @@ main :: func(): void {
 ***********************************
 ### ・Github Overview・
 
-<a href="https://github.com/zLynnx066">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx066&theme=radical&hide=glsl" />
+<a href="https://github.com/zLynnx06">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=radical&hide=glsl" />
 </a>
-<a href="https://github.com/zLynnx066/zLynnx066">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx066&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
+<a href="https://github.com/zLynnx066/zLynnx06">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
 ***********************************
