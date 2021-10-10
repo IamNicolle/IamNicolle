@@ -28,12 +28,12 @@ main :: func(): void {
 <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889305912588771398/888315951173488640.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn.discordapp.com/attachments/888297289330864148/889306057715888178/888317007383105566.png' height='100px'>  | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306321080426526/888316188529143818.png' width="100px" height='100px'> | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306228650565682/888316090126577684.png' width="100px" height='100px'> |
 | <a href="https://twitter.com/zLynnx06" target="_blank">`zLynnx06`</a> | <a href="https://discord.com/users/827578468979441734" target="_blank">`> ''zLynnx 🥀,,`</a> | <a href="https://www.instagram.com/zlynnx066/?hl=es-la" target="_blank">`zlynnx066`</a> | </a> <a href="https://www.youtube.com/channel/UCBCfP4bXAKud-7T9sW_GnvA" target="_blank">`zLynnx06 🥀`</a> |  <a href="https://twitter.com/zLynnx06" target="_blank">`zLynnx06`</a> | <a href="https://discord.com/users/827578468979441734" target="_blank">`> ''zLynnx 🥀,,`</a> | 
   
-<h2 align="center">🏢・Server & Organization・🏢</h2>
+<h2 align="center">🏢・Organizations・🏢</h2>
 
-| <a href="https://twitter.com/home?lang=es" target="_blank">**Discord Server**</a> | <a href="https://discord.com" target="_blank">**Organization**</a> |
-| :---: | :---: |
-<img align='center' src='https://cdn.discordapp.com/attachments/893666982463934464/893721388488204358/a_71d650a010935cb580506194727244a5.gif' width="100px"  height='100px'> | <img align='center' width="100px" src='https://media.discordapp.net/stickers/867083351755587615.png?size=160' height='100px'>  |
-| <a href="https://discord.gg/wc6p85JHRx" target="_blank">`IDNT 🔥`</a> | <a href="https://discord.gg/JJumUWjQKx" target="_blank">`Momichis Corp ™`</a> |
+| <a href="https://discord.com" target="_blank">**Organization**</a> |
+| :---: |
+<img align='center' width="100px" src='https://media.discordapp.net/stickers/867083351755587615.png?size=160' height='100px'>  |
+| <a href="https://discord.gg/JJumUWjQKx" target="_blank">`Momichis Corp ™`</a> |
 
 <h2 align="center">📊・Pinned Repositories・📊</h2>
 
