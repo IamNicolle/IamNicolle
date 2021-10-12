@@ -44,6 +44,14 @@ main :: func(): void {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
+<hr/>
+<p align="center">
+    <a href="https://github.com/zLynnx06/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=zLynnx06&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
+  
+*****************
+ 
 <h2 align="center">💻・Languages and Tools・💻</h2>
 
 <p align="center">
