@@ -13,7 +13,7 @@ main :: func(): void {
   scripthoney :: aboutMe = {
     pronouns: ["She", "Her"],
     languages: ["HTML", "C#", "Java", "Python", "C++"],
-    info: ["The world is yours. ✨🇽"]
+    info: ["The world is yours. ✨"]
   };
 
   println "Pronouns: ${scripthoney.pronouns}";
