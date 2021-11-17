@@ -1,4 +1,4 @@
-<h2 align="center">・🔻〢About Me〢🔻・</h2>
+<h2 align="center">・🔻〢About Me 🔻・</h2>
 
 ```julia
 module main
