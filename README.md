@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ScriptHoney&color=blueviolet)
+
 <h2 align="center">・🔻〢About Me 🔻・</h2>
 
 ```julia
