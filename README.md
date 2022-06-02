@@ -10,15 +10,15 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  scripthoney :: aboutMe = {
+  IamNicolle :: aboutMe = {
     pronouns: ["She", "Her"],
-    languages: ["HTML", "C#", "Java", "Python", "C++"],
+    aboutme: ["16y", "She", "México"],
     info: ["The world is yours. ✨"]
   };
 
-  println "Pronouns: ${scripthoney.pronouns}";
-  println "Languages: ${scripthoney.languages}";
-  println "info: ${scripthoney.info}";
+  println "Pronouns: ${IamNicolle.pronouns}";
+  println "Languages: ${IamNicolle.languages}";
+  println "aboutme: ${IamNicolle.info}";
 }
 ```
 ![](https://komarev.com/ghpvc/?username=ScriptHoney&color=blueviolet)
