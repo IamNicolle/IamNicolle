@@ -33,10 +33,10 @@ main :: func(): void {
 
 <h2 align="center">・Organization y Server </h2>
 
-| <a href="https://discord.gg/JJumUWjQKx" target="_blank">**Organization**</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">**My Server Discord**</a> |
+| <a href="https://discord.gg/AjCDJbDp" target="_blank">**Organization**</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">**My Server Discord**</a> |
 |:---: | :---: |
 | <img align='center' src='https://cdn.discordapp.com/icons/856625511575846974/6854978e9b1f9225f0c3320a18fb8a18.png?size=4096' height='100px'> | <img align='center' src='https://cdn.discordapp.com/icons/856625511575846974/a2c7171f835a7cfe0fe77e1777de77b1.png?size=2048' height='100px'> |
-| <a href="https://discord.gg/JJumUWjQKx" target="_blank">`６９ ✦ N E T`</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">`La Virgo Cueva \| Simp's Co. ®`</a> | 
+| <a href="https://discord.gg/AjCDJbDp" target="_blank">`６９ ✦ N E T`</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">`La Virgo Cueva \| Simp's Co. ®`</a> | 
 
 
 <h2 align="center">・Pinned Repositories・</h2>
