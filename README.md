@@ -1,5 +1,9 @@
-<h2 align="center">・About Me・</h2>
 
+# ・About Me・
+<details>
+  <summary>Click to read</summary>
+  
+  
 ```julia
 module main
 
@@ -29,7 +33,6 @@ main :: func(): void {
 | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889305912588771398/888315951173488640.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn.discordapp.com/attachments/888297289330864148/889306057715888178/888317007383105566.png' height='100px'>  | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306321080426526/888316188529143818.png' width="100px" height='100px'> | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306228650565682/888316090126577684.png' width="100px" height='100px'> |
 | <a href="https://twitter.com/Iam_Nicolle_" target="_blank">`@Iam_Nicolle_`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle#5383`</a> | <a href="https://www.instagram.com/lynicolle_/" target="_blank">`@lynicolle_`</a> | <a href="[[https://twitter.com/Iam_Nicolle_](https://twitter.com/Iam_Nicolle_)](https://twitter.com/Iam_Nicolle_)" target="_blank">`@Iam_Nicolle_`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle#5383</a> | 
-  
 
 <h2 align="center">・Organization y Server </h2>
 
