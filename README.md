@@ -1,7 +1,7 @@
 
 # ・About Me・
 <details>
-  <summary>Click to read</summary>
+  <summary>Click here to read</summary>
   
   
 ```julia
