@@ -38,7 +38,7 @@ main :: func(): void {
 
 | <a href="https://discord.gg/AjCDJbDp" target="_blank">**Organization**</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">**My Server Discord**</a> |
 |:---: | :---: |
-| <img align='center' src='https://media.discordapp.net/attachments/797720890812137493/810253995980488724/a_b4ce68b2cf31676e5d023118afec7ed1.gif' height='100px'> | <img align='center' src='https://cdn.discordapp.com/icons/856625511575846974/a_c54c4641c5546ada2406b80f8ea543a7.gif?size=2048'> |
+| <img align='center' src='https://media.discordapp.net/attachments/797720890812137493/810253995980488724/a_b4ce68b2cf31676e5d023118afec7ed1.gif' height='100px'> | <img align='center' src='https://cdn.discordapp.com/emojis/861448824253710367.png?v=1'> |
 | <a href="https://discord.gg/AjCDJbDp" target="_blank">`６９ ✦ N E T`</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">`La Virgo Cueva.`</a> | 
 
 
