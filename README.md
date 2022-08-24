@@ -32,14 +32,14 @@ main :: func(): void {
 | <a href="https://twitter.com/home?lang=es" target="_blank">**Twitter**</a> | <a href="https://discord.com" target="_blank">**Discord**</a> | <a href="https://www.instagram.com/?hl=es-la" target="_blank">**Instagram**</a> |
 | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889305912588771398/888315951173488640.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://cdn.discordapp.com/attachments/888297289330864148/889306057715888178/888317007383105566.png' height='100px'>  | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306321080426526/888316188529143818.png' width="100px" height='100px'> | <img align='center' src='https://cdn.discordapp.com/attachments/888297289330864148/889306228650565682/888316090126577684.png' width="100px" height='100px'> |
-| <a href="https://twitter.com/Iam_Nicolle_" target="_blank">`@Iam_Nicolle_`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle#5383`</a> | <a href="https://www.instagram.com/lynicolle_/" target="_blank">`@lynicolle_`</a> | <a href="[[https://twitter.com/Iam_Nicolle_](https://twitter.com/Iam_Nicolle_)](https://twitter.com/Iam_Nicolle_)" target="_blank">`@Iam_Nicolle_`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle#5383</a> | 
+| <a href="https://twitter.com/_Nicolleuwu" target="_blank">`@_Nicolleuwu`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle#5383`</a> | <a href="https://www.instagram.com/lynicolle_/" target="_blank">`@lynicolle_`</a> | <a href="[[https://twitter.com/_Nicolleuwu](https://twitter.com/_Nicolleuwu)](https://twitter.com/_Nicolleuwu)" target="_blank">`@_Nicolleuwu`</a> | <a href="https://discord.com/users/896611362451619862" target="_blank">`Nicolle.#3577</a> | 
 
 <h2 align="center">・Organization y Server </h2>
 
 | <a href="https://discord.gg/AjCDJbDp" target="_blank">**Organization**</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">**My Server Discord**</a> |
 |:---: | :---: |
 | <img align='center' src='https://media.discordapp.net/attachments/797720890812137493/810253995980488724/a_b4ce68b2cf31676e5d023118afec7ed1.gif' height='100px'> | <img align='center' src='https://cdn.discordapp.com/emojis/861448824253710367.png?v=1'> |
-| <a href="https://discord.gg/AjCDJbDp" target="_blank">`６９ ✦ N E T`</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">`La Virgo Cueva.`</a> | 
+| <a href="https://discord.gg/AjCDJbDp" target="_blank">`６９ ✦ N E T`</a> | <a href="https://discord.gg/Enwjy8CFRy" target="_blank">`La Virgo Cueva`</a> | 
 
 
 <h2 align="center">・Pinned Repositories・</h2>
